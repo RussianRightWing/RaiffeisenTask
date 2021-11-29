@@ -14,7 +14,7 @@
 	<name>task</name>
 	<description>Raiffeisen task project</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 		<jar.finalName>task</jar.finalName>
 	</properties>
 	<dependencies>
